@@ -53,12 +53,12 @@ Quer fazer parte deste projeto musical? Aqui está como você pode ajudar:
 
 1. Clone o repositório
    ```bash
-   git clone https://github.com/EduradoPessoa/portifolio_musicas.git
+   git clone https://github.com/EduradoPessoa/portifolio_musical.git
    ```
 
 2. Abra o arquivo `index.html` em seu navegador
    ```bash
-   cd portifolio_musicas
+   cd portifolio_musical
    # Use seu navegador preferido para abrir index.html
    ```
 
@@ -76,9 +76,9 @@ Este é um projeto vivo que está sempre evoluindo! Se você é apaixonado por m
 
 Tem alguma dúvida ou sugestão? Vamos conversar!
 
-- 📧 Email: [seu-email@exemplo.com]
-- 🐦 Twitter: [@seu_twitter]
-- 💼 LinkedIn: [seu-linkedin]
+- 📧 Email: [eduardo@phoenyx.com.br]
+- 🐦 Twitter: [[@edumpessoa]
+- 💼 LinkedIn: [[eduardo-pessoa-b5141615]
 
 ---
 
