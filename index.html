@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfólio Musical - Dudu Pessoa</title>
+    
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- React -->
+    <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+
+    <!-- Componentes -->
+    <script type="text/babel" src="utils/musicService.js"></script>
+    <script type="text/babel" src="components/Header.js"></script>
+    <script type="text/babel" src="components/UserAuth.js"></script>
+    <script type="text/babel" src="components/Dashboard.js"></script>
+    <script type="text/babel" src="components/SongUpload.js"></script>
+    <script type="text/babel" src="components/SongCard.js"></script>
+    <script type="text/babel" src="components/LyricsModal.js"></script>
+    <script type="text/babel" src="components/PlaylistModal.js"></script>
+    <script type="text/babel" src="components/MusicPlayer.js"></script>
+    <script type="text/babel" src="components/TopSongs.js"></script>
+    <script type="text/babel" src="components/SongList.js"></script>
+    <script type="text/babel" src="app.js"></script>
+
+    <style>
+        .button-primary {
+            @apply bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 transition-colors;
+        }
+        .section-title {
+            @apply text-2xl font-bold mb-4 text-gray-800;
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        const container = document.getElementById('root');
+        const root = ReactDOM.createRoot(container);
+        root.render(<App />);
+    </script>
+</body>
+</html>

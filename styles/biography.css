@@ -1,0 +1,29 @@
+.biography-photo {
+    transition: transform 0.3s ease;
+}
+
+.biography-photo:hover {
+    transform: scale(1.05);
+}
+
+.social-media-link {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    background-color: #f3f4f6;
+    transition: background-color 0.2s;
+}
+
+.social-media-link:hover {
+    background-color: #e5e7eb;
+}
+
+.contact-info {
+    display: grid;
+    gap: 1rem;
+    padding: 1.5rem;
+    background-color: #f8fafc;
+    border-radius: 0.5rem;
+    margin-top: 2rem;
+}
