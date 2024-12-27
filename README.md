@@ -77,8 +77,8 @@ Este é um projeto vivo que está sempre evoluindo! Se você é apaixonado por m
 Tem alguma dúvida ou sugestão? Vamos conversar!
 
 - 📧 Email: [eduardo@phoenyx.com.br]
-- 🐦 Twitter: [[@edumpessoa]
-- 💼 LinkedIn: [[eduardo-pessoa-b5141615]
+- 🐦 Twitter: [@edumpessoa]
+- 💼 LinkedIn: [eduardo-pessoa-b5141615]
 
 ---
 
